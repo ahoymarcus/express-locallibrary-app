@@ -15,7 +15,7 @@ Dependências:
 - Mongoose
 - Async
 - Luxon (date formatter)
-
+- Express-validator
 
 
 
