@@ -15,21 +15,23 @@ Dependências:
 - Mongoose
 - Async
 - Luxon (date formatter)
-- Express-validator
+- Express-validator 
+	- Validating and Sanitizing forms
+	
 
 
 
-### :
-![](./src/assets/image-exemplo-do-uso-skeleton-no-preenchimento-dos-dados.png)
+### Local Library Home page image:
+![](./public/images/local_library-homepage-image.png)
 
 
-### :
-![](./src/assets/exemplo-do-uso-do-skeleton-no-carregamento-das-imagens.png)
+### Book description page:
+![](./public/images/book-page-image.png)
 
 
 
-### :
-![imagem final do projeto com a animação de espera pelos resultados da API](./src/assets/project-image.png)
+### Book genres list:
+![imagem final do projeto com a animação de espera pelos resultados da API](./public/images/book_genre-page-image.png)
 
 
 
