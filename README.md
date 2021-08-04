@@ -34,7 +34,12 @@ Dependências:
 ![imagem final do projeto com a animação de espera pelos resultados da API](./public/images/book_genre-page-image.png)
 
 
+### Exemplo de validação de input com express-validator:
+![](./public/images/exemplo-da-validação-de-input-com-express-validator.png)
 
+
+### Outro exemplo de validação de campo de formulário com express-validator:
+![](./public/images/exemplo-da-validação-de-input-com-express-validator-2.png)
 
 
 [^1] Mozilla.org: https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs
