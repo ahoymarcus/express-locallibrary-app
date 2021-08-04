@@ -34,5 +34,5 @@ Dependências:
 
 
 
-[^1] Mozilla.org: https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/skeleton_website
+[^1] Mozilla.org: https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs
 
