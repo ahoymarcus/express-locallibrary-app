@@ -14,6 +14,7 @@ Dependências:
 - MongoDB
 - Mongoose
 - Async
+- Luxon (date formatter)
 
 
 
