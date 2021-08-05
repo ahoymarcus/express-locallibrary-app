@@ -38,7 +38,7 @@ Dependências:
 ![](./public/images/exemplo-da-validação-de-input-com-express-validator.png)
 
 
-### Outro exemplo de validação de campo de formulário com express-validator:
+### Outro exemplo de validação de campo de formulário com express-validator e com validação de HTML5:
 ![](./public/images/exemplo-da-validação-de-input-com-express-validator-2.png)
 
 
