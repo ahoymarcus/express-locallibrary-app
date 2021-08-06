@@ -17,7 +17,8 @@ Dependências:
 - Luxon (date formatter)
 - Express-validator 
 	- Validating and Sanitizing forms
-	
+- Compression (to improve production)
+- Helmet (to improve production)	
 
 
 
